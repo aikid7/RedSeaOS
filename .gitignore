@@ -1,0 +1,33 @@
+# --- Linux Kernel Compilation Ignored Files ---
+*.o
+*.ko
+*.mod.c
+*.mod
+*.cmd
+.tmp_versions/
+modules.order
+Module.symvers
+vmlinux
+System.map
+.config
+.config.old
+
+# --- Development & Compiling Trash ---
+*.a
+*.la
+*.so
+*.out
+build/
+bin/
+obj/
+.cache/
+
+# --- Text Editor / IDE Temporary Files ---
+*.swp
+*~
+.vscode/
+.idea/
+.DS_Store
+
+# --- OS Build Logs ---
+*.log
