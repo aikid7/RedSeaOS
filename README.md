@@ -1,6 +1,6 @@
 # RedSeaOS
 
-### Independent Linux Distribution by Aikid7
+### RedSeaOS – Independent Linux Distribution by a 13-Year-Old Developer
 
 > **Project Status Notice**
 >
