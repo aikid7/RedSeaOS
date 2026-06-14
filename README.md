@@ -24,11 +24,11 @@ RedSeaOS is an independent Linux distribution developed by Aikid7, created with 
 
 ## 🚦 Current Development Status
 
-> 🔴 **CURRENT TASK:** Downloading, configuring, and compiling Linux 6.18.35 LTS.
+> 🔴 **CURRENT TASK:** Downloading, configuring, and compiling Linux 6.18.35 LTS.✅ completed
 
 ## 🗺️ Project Checklist
 
-- [ ] Compile Linux Kernel 6.18.35
+- [✅] Compile Linux Kernel 6.18.35
 ---
 
 ## ⚙️ Kernel Baseline Specs
